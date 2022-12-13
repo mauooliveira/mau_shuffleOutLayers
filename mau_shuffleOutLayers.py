@@ -9,6 +9,8 @@ import nuke
 
 # Get the selected node
 node = nuke.selectedNode()
+unpremult = nuke.createNode('Unpremult')
+unpremult.knob('channels').setValue('all')
 dot = nuke.createNode('Dot')
 
 # Get the list of all layers in the Read node
