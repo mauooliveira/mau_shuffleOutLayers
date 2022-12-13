@@ -1,7 +1,7 @@
 #--------------------------------------------------
 # mau_blendCam.py
 # version: 0.0.1
-# last updated: 15.05.22 (DD.MM.YY)
+# last updated: 13.12.22 (DD.MM.YY)
 #--------------------------------------------------
 
 # Import the required modules
